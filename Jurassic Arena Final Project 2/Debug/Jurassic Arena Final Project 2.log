@@ -1,15 +1,15 @@
-﻿Build started 5/14/2015 2:23:11 PM.
-     1>Project "Z:\CS 171\Jurassic Arena Final Project 2\Jurassic Arena Final Project 2\Jurassic Arena Final Project 2.vcxproj" on node 2 (Build target(s)).
+﻿Build started 5/14/2015 2:50:34 PM.
+     1>Project "C:\Users\Daniel Lee\Documents\Jurassic-Arena-Final-Project-2\Jurassic Arena Final Project 2\Jurassic Arena Final Project 2.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SourceCode.cpp
          SourceCode.cpp
-     1>z:\cs 171\jurassic arena final project 2\jurassic arena final project 2\sourcecode.cpp(59): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
-     1>z:\cs 171\jurassic arena final project 2\jurassic arena final project 2\sourcecode.cpp(64): warning C4101: 'stegodamage' : unreferenced local variable
+     1>c:\users\daniel lee\documents\jurassic-arena-final-project-2\jurassic arena final project 2\sourcecode.cpp(59): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\daniel lee\documents\jurassic-arena-final-project-2\jurassic arena final project 2\sourcecode.cpp(64): warning C4101: 'stegodamage' : unreferenced local variable
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\CS 171\Jurassic Arena Final Project 2\Debug\Jurassic Arena Final Project 2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\CS 171\Jurassic Arena Final Project 2\Debug\Jurassic Arena Final Project 2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\CS 171\Jurassic Arena Final Project 2\Debug\Jurassic Arena Final Project 2.lib" /MACHINE:X86 Debug\SourceCode.obj
-         Jurassic Arena Final Project 2.vcxproj -> Z:\CS 171\Jurassic Arena Final Project 2\Debug\Jurassic Arena Final Project 2.exe
-     1>Done Building Project "Z:\CS 171\Jurassic Arena Final Project 2\Jurassic Arena Final Project 2\Jurassic Arena Final Project 2.vcxproj" (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daniel Lee\Documents\Jurassic-Arena-Final-Project-2\Debug\Jurassic Arena Final Project 2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Daniel Lee\Documents\Jurassic-Arena-Final-Project-2\Debug\Jurassic Arena Final Project 2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daniel Lee\Documents\Jurassic-Arena-Final-Project-2\Debug\Jurassic Arena Final Project 2.lib" /MACHINE:X86 Debug\SourceCode.obj
+         Jurassic Arena Final Project 2.vcxproj -> C:\Users\Daniel Lee\Documents\Jurassic-Arena-Final-Project-2\Debug\Jurassic Arena Final Project 2.exe
+     1>Done Building Project "C:\Users\Daniel Lee\Documents\Jurassic-Arena-Final-Project-2\Jurassic Arena Final Project 2\Jurassic Arena Final Project 2.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.30
+Time Elapsed 00:00:01.26
